@@ -7,9 +7,9 @@
     0937 465 5385
     011 5433 2064
 */
-function smarty_function_gravatar($params, &$smarty) { 
+function smarty_function_vogravatar($params, &$smarty) { 
     if(!isset($params['email']) && !isset($params['default'])) { 
-        $smarty->trigger_error("gravatar: neither 'email' nor 'default' attribute passed"); 
+        $smarty->trigger_error("ایمیل وارد شده اشتباه است و ایمیل پیشفرضی هم قرار داده نشده است"); 
         return; 
     } 
       
