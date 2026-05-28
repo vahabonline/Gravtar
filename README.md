@@ -50,5 +50,5 @@ A lightweight, performance-optimized WHMCS hook that allows you to dynamically f
 
 ---
 ## 📄 License / لایسنس
-This project is licensed under the **MIT License**. Developed by **VahabOnline Team**.
+This project is licensed under the **MIT License**. Developed by **VahabOnline Team**.<br>
 این پروژه تحت لایسنس **MIT** منتشر شده است. توسعه داده شده توسط **تیم وهاب آنلاین**.
